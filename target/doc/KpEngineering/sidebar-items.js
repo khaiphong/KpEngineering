@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["chemical","civil","electrical","electronic","mechanical","metallurgical","mining"]};
